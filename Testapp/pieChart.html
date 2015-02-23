@@ -33,3 +33,26 @@
   		'is3D':true,
   		'width':800,
  		 'height':600
+			}
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    
+  </script>
+  </head>
+
+  <body>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+    <!--Link to bargrah layout of Data-->
+    <div><a href="barGraph.html">Bar Graph Layout</a></div> 
+  </body>
+</html>
+        // Set chart options
+        var options = {
+  		'legend':'left',
+  		'title':'Top 25 most followed users on Instagram',
+  		'is3D':true,
+  		'width':800,
+ 		 'height':600
