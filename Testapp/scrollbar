@@ -1,0 +1,204 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="L1.css">
+</head>
+<body>
+ <h1>   <img border="0" alt="logo" src="logo.png" width="100" height="100">  </h1> 
+
+<div class = "centered">
+  
+
+
+<div style="border:3px solid black;width:500px;height:175px;overflow:scroll;">
+   
+    <div float: right>
+     
+     <table>
+     	<tr>
+     	<p align= "center">Women</p>
+		</tr>
+     	<tr>
+     		<td>
+     			<a href="http://www.instagram.com/beyonce">
+     			<img border="0" alt="beyonce" src="photos/beyonce.png" width="100" height="100">
+     			</a>
+     		</td>
+     		<td>
+     			<a href="http://www.instagram.com/kimkardashian">
+     			<img border="0" alt="kimkardashian" src="photos/kim.png" width="100" height="100">
+     			</a>
+      		</td>
+     		<td>
+       			<a href="http://www.instagram.com/arianagrande">
+      			<img border="0" alt="arianagrande" src="photos/ariana.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/selenagomez">
+      			<img border="0" alt="selenagomez" src="photos/selena.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/taylorswift">
+      			<img border="0" alt="taylorswift" src="photos/taylor.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+       			<a href="http://www.instagram.com/kendalljenner">
+      			<img border="0" alt="kendalljenner" src="photos/kendall.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/kyliejenner">
+      			<img border="0" alt="kyliejenner" src="photos/kylie.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/khloekardashian">
+      			<img border="0" alt="khloekardashian" src="photos/khloe.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+       			<a href="http://www.instagram.com/mileycyrus">
+      			<img border="0" alt="mileycyrus" src="photos/miley.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/nikiminaj/">
+      			<img border="0" alt="nikiminaj" src="photos/nicki.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/badgalriri">
+      			<img border="0" alt="badgalriri" src="photos/rihanna.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+      			<a href="http://www.instagram.com/katyperry">
+      			<img border="0" alt="katyperry" src="photos/katy.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+      			<a href="http://www.instagram.com/kourtneykardash">
+      			<img border="0" alt="kourtneykardash" src="photos/kourtney.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+      			<a href="http://www.instagram.com/Ddlovato">
+      			<img border="0" alt="Ddlovato" src="photos/demi.png" width="100" height="100">
+      			</a>
+      		</td>
+      		<td>
+      			<a href="http://www.instagram.com/Jlo">
+      			<img border="0" alt="Jlo" src="photos/jlo.png" width="100" height="100">
+      			</a>
+      		</td>
+     	</tr>
+     	<tr>
+     		<td align="center"> beyonce</td>
+     		<td align="center"> kimkardashian</td>
+     		<td align="center"> arianagrande</td>
+     		<td align="center"> selenagomez</td>
+     		<td align="center"> taylorswift</td>
+     		<td align="center"> kendalljenner</td>
+     		<td align="center"> kyliejenner</td>
+     		<td align="center"> khloekardashian</td>
+     		<td align="center"> mileycyrus</td>
+     		<td align="center"> mikiminaj</td>
+     		<td align="center"> badgalriri</td>
+     		<td align="center"> katyperry</td>
+     		<td align="center"> kourtneykardash</td>
+     		<td align="center"> Ddlovato</td>
+     		<td align="center"> Jlo</td>
+     		
+      </table>
+    </div>
+     
+</div>
+
+
+
+<div style="border:3px solid black;width:500px;height:175px;overflow:scroll;">
+   
+     <div float: right>
+     <table>
+     
+    <tr>
+    
+     	<p align= "center">Men</p>
+		</tr>
+     	
+     	<nav class="socialmediaicons"></nav>
+     		
+     	
+     	<tr>
+     		<td > justinbieber</td>
+     		<td > neymarjr</td>
+     		<td > Cristiano</td>
+     		<td > Kevinhart4real</td>
+     		<td > Harrystyles</td>
+     		
+     	</tr>
+     		
+      </table>
+
+      
+     </div>
+     
+</div>
+   
+   
+   
+   <div style="border:3px solid black;width:500px;height:175px;overflow:scroll;">
+   
+     <div float: right>
+     <table>
+     
+    <tr>
+     	<p align= "center">Brands</p>
+		</tr>
+     	<tr>
+     		<td>
+     			<a href="http://www.instagram.com/instagram">
+     			<img border="0" alt="instagram" src="photos/instagram.png" width="100" height="100">
+     			</a>
+     		</td>
+     		<td>
+     			<a href="http://www.instagram.com/Natgeo">
+     			<img border="0" alt="Natgeo" src="photos/Natgeo.png" width="100" height="100">
+     			</a>
+      		</td>
+     		<td>
+       			<a href="http://www.instagram.com/Nike">
+      			<img border="0" alt="Nike" src="photos/Nike.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/9gag">
+      			<img border="0" alt="9gag" src="photos/9gag.png" width="100" height="100">
+      			</a>
+      		</td>
+     		<td>
+      			<a href="http://www.instagram.com/victoriassecret">
+      			<img border="0" alt="victoriassecret" src="photos/VS.png" width="100" height="100">
+      			</a>
+      		</td>
+     	</tr>
+     	<tr>
+     		<td align="center"> instagram</td>
+     		<td align="center"> Natgeo</td>
+     		<td align="center"> Nike</td>
+     		<td align="center"> 9gag</td>
+     		<td align="center"> victoriassecret</td>
+     		
+     	</tr>
+     		
+      </table>
+
+      
+     </div>
+</div>
+    </div>
+    <script src="script_alt.js"></script>
+</body> 
+</html>
