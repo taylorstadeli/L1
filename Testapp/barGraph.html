@@ -1,43 +1,44 @@
-</<html>
+<html>
   <head>
+   <link rel="stylesheet" type="text/css" href="L1.css">
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript">
       google.load("visualization", "1.1", {packages:["bar"]});
       google.setOnLoadCallback(drawChart);
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Instagram User', 'followers', 'following', 'Media'],
-          ['instagram', 54388346, 200, 2016],
-          ['beyonce', 26582275, 0, 936],
-          ['kimkardashian', 26569449, 110, 2417],
-          ['arianagrande', 25429659, 730, 1378],
-	      ['selenagomez' , 23601446, 44, 821],
-	      ['justinbieber', 22950978, 52, 1978],
-	      ['taylorswift', 22075191, 36, 434],
-	      ['kendalljenner', 19553968, 165, 2104],
-          ['kyliejenner', 17950252, 194, 2811],
-          ['khloekardashian', 17868560, 149, 2437],
-          ['mileycyrus', 16097514, 208, 2573],
-	      ['nickiminaj' , 16048241, 323, 2460],
-	      ['neymarjr', 15539821, 817, 1978],
-	      ['badgalriri', 15294894, 1118, 2875],
-          ['katyperry', 14911479, 171, 234],
-          ['kourtneykardash', 14526644, 104, 1628],
-          ['natgeo', 12547895, 106, 5720],
-	      ['cristiano' , 12492241, 13, 357],
-	      ['nike', 12263611, 126, 770],
-	      ['kevinhart4real', 11641645, 373, 2095],
-	      ['ddlovato', 11480745, 3, 524],
-          ['jlo', 11451491, 3, 524],
-          ['9gag', 10865267, 10, 5859],
-          ['victoriassecret',10603140 , 383, 2061],
-	      ['harrystyles' , 10460611, 149, 333]
+          ['Account Name', 'followers'],
+          ['instagram', 54388346],
+          ['beyonce', 26582275],
+          ['kimkardashian', 26569449],
+          ['arianagrande', 25429659],
+	      ['selenagomez' , 23601446],
+	      ['justinbieber', 22950978],
+	      ['taylorswift', 22075191],
+	      ['kendalljenner', 19553968],
+          ['kyliejenner', 17950252],
+          ['khloekardashian', 17868560],
+          ['mileycyrus', 16097514],
+	      ['nickiminaj' , 16048241],
+	      ['neymarjr', 15539821],
+	      ['badgalriri', 15294894],
+          ['katyperry', 14911479],
+          ['kourtneykardash', 14526644],
+          ['natgeo', 12547895],
+	      ['cristiano' , 12492241],
+	      ['nike', 12263611],
+	      ['kevinhart4real', 11641645],
+	      ['ddlovato', 11480745],
+          ['jlo', 11451491],
+          ['9gag', 10865267],
+          ['victoriassecret',10603140],
+	      ['harrystyles' , 10460611]
         ]);
 
         var options = {
           chart: {
             title: 'Top 25 Followed Instagram Users',
-            subtitle: 'Followers, Following, and Media:',
+            subtitle: 'Followers:',
           },
           bars: 'horizontal' // Required for Material Bar Charts.
         };
@@ -50,7 +51,7 @@
     </script>
   </head>
   <body>
-    <div id="barchart_material" style="width: 900px; height: 500px;"></div>
+    <div class="iframe" id="barchart_material" style="width: 600px; height: 600px;"></div>
     
   </body>
 </html>
